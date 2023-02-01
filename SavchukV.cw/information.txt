@@ -1,0 +1,24 @@
+Drive C:\:
+  Volume name: 
+  File system: NTFS
+  Serial number: 3468046175
+  Free space: 3.71 GB
+  Total space: 111.19 GB
+Drive D:\:
+  Volume name: 
+  File system: NTFS
+  Serial number: 3478833307
+  Free space: 92.61 GB
+  Total space: 232.90 GB
+Drive E:\:
+  Volume name: 
+  File system: NTFS
+  Serial number: 2638882548
+  Free space: 93.34 GB
+  Total space: 232.86 GB
+Drive H:\:
+  Volume name: FLESKA
+  File system: FAT
+  Serial number: 203193515
+  Free space: 3.43 GB
+  Total space: 3.76 GB
